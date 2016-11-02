@@ -12,7 +12,7 @@ inside /etc/openstack directory.
   
 Example clouds.yaml
 ===================
-  
+```  
 clouds:  
   cloud-admin:  
     auth:  
@@ -23,7 +23,7 @@ clouds:
     domain_name: Default  
     identity_api_version: '3'  
     region_name: RegionOne  
-  
+```
 If you do not use cloud-admin name, you should change this value in  
 openstack_user_management.connectors.openstack_connector  
   
