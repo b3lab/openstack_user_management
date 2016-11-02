@@ -1,0 +1,11 @@
+CHANGES
+=======
+
+* init_network fonksiyonu eklendi
+* bug fix
+* req güncellendi
+* installation paketi hazırlandı
+* change password fonksiyonu eklendi
+* user manager güncellendi
+* temel fonksiyonlar eklendi ve test edildi
+* initial commit
